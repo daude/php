@@ -1,0 +1,27 @@
+ul{
+	list-style: none;
+	padding:0;
+}
+ul li{
+	margin-bottom:15px;
+}
+.news-block {
+	margin-bottom:30px;
+}
+.news-block h1{
+	font-size:18px;
+	text-transform: uppercase;
+}
+
+.news-block .description{
+	padding:15px 0;
+}
+
+form .form-control{
+	height:45px;
+}
+
+form .btn{
+	height:45px;
+	color:#fff;
+}
